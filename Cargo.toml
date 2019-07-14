@@ -1,0 +1,7 @@
+[package]
+name = "neural_rust"
+version = "0.1.0"
+authors = ["zer0phase <zer0phase@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
